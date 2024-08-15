@@ -12,7 +12,7 @@ const Profile = () => {
           <div id="greet-hi">Hi, My Name is</div>
           <div id="name">Sachin Ingale</div>
           <div className="typewriter">
-            <p>Full Stack Web Developer</p>
+            <p>Software Development Engineer</p>
           </div>
           <div id="view-resume">
             <div>
