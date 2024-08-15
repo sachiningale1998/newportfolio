@@ -9,6 +9,7 @@ const FreelancePrs = () => {
     {
       id: 1,
       prName: "Vishal's Fitness Studio",
+      gitLink: "https://github.com/sachiningale1998/",
       link: "https://getinshape.co.in",
       desc: "A Fitnes Studio website for the client who has fitness coach certificate and wants to be able to connect with more people through their official website. In this project I have mainly focused upon the UI & UX in order to increase the client retention. It also has forms to connect with the coach and more contact options",
       techStacks:
@@ -18,6 +19,7 @@ const FreelancePrs = () => {
     {
       id: 2,
       prName: "Antim Moksh by Kripa Funerals",
+      gitLink: "https://github.com/sachiningale1998/antim-moksh-client",
       link: "https://antim-moksh-k.in",
       desc: "A busines website for Kripa Funeral Services, which comes with the static information about their business and services they are providing in the field of cremation and last rites as well as funeral and ambulance service. The website also has different options to contact the support team. Built with great color theme and css animations in order to create an outstanding user experience",
       techStacks: "React.js | HTML | CSS | JavaScript | Material-UI | EmailJS",
@@ -26,6 +28,7 @@ const FreelancePrs = () => {
     {
       id: 3,
       prName: "Saijeevan Enterprises",
+      gitLink: "https://github.com/sachiningale1998/g1_Bright_Industries",
       link: "https://saijeevanenterprises.netlify.app/",
       desc: "An E-commerce web app for Saijeevan Enterprises which sells detergent powder and detergent cake all over Maharashtra. Developed as static as well as dynamic with User registration and Login/Signup functionality. Also has the product listing page along with cart functionality and state is managed using Redux store.",
       techStacks:
@@ -84,7 +87,7 @@ const FreelancePrs = () => {
                       }}
                     >
                       <div id="git">
-                        <a href="https://github.com/saikiran003/Clone_MamaEarth">
+                        <a href={el.gitLink}>
                           <span
                             className="iconify"
                             data-icon="feather:github"
