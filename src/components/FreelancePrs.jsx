@@ -9,7 +9,7 @@ const FreelancePrs = () => {
     {
       id: 1,
       prName: "Vishal's Fitness Studio",
-      link: "https://www.getinshape.co.in",
+      link: "https://getinshape.co.in",
       desc: "A Fitnes Studio website for the client who has fitness coach certificate and wants to be able to connect with more people through their official website. In this project I have mainly focused upon the UI & UX in order to increase the client retention. It also has forms to connect with the coach and more contact options",
       techStacks:
         "React.js | Node.js | Express.js | MongoDB | HTML | CSS | JavaScript | Bootstrap | EmailJS",
@@ -18,7 +18,7 @@ const FreelancePrs = () => {
     {
       id: 2,
       prName: "Antim Moksh by Kripa Funerals",
-      link: "https://www.antim-moksh-k.in",
+      link: "https://antim-moksh-k.in",
       desc: "A busines website for Kripa Funeral Services, which comes with the static information about their business and services they are providing in the field of cremation and last rites as well as funeral and ambulance service. The website also has different options to contact the support team. Built with great color theme and css animations in order to create an outstanding user experience",
       techStacks: "React.js | HTML | CSS | JavaScript | Material-UI | EmailJS",
       imgSrc: `${antimMoksh}`,

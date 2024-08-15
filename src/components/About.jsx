@@ -31,7 +31,7 @@ const About = () => {
               className="About_aboutMe__Kx5NY"
               style={{ color: "rgb(137, 147, 177)" }}
             >
-              Aspiring Full-Stack Developer, Skilled in both front-end and
+              Experienced Full-Stack Developer / Software Development Engineer, Skilled in both front-end and
               back-end web development. I enjoy creating things that live on the
               internet. Keen to create new and innovative websites by showcasing
               my skills. I have an interest in Information technology and
